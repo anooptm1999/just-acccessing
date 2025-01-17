@@ -1,2 +1,2 @@
 # just-acccessing
-# writing this through UI no through code
+# writing this through UI not through code
